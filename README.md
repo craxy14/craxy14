@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vano Motiashvili</h1>
 <h3 align="center">A passionate Frontend Developer from Georgia 💗</h3>
+![github](https://github.com/user-attachments/assets/e07cc79b-103d-472e-bb94-e3e716a8b74e)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=craxy14&label=Profile%20views&color=0e75b6&style=flat" alt="craxy14" /> </p>
 
