@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vano Motiashvili</h1>
 <h3 align="center">A passionate Frontend Developer from Georgia 💗</h3>
 
-https://github.com/user-attachments/assets/82867b18-89bb-4c65-a59f-4812cdd3baea
+
+![github](https://github.com/user-attachments/assets/1efa5f13-02c4-4bc6-8e54-e78632e3dec3)
 
 
 
