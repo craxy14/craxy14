@@ -5,7 +5,7 @@
 ![github](https://github.com/user-attachments/assets/1efa5f13-02c4-4bc6-8e54-e78632e3dec3)
 
 
-- 👨‍💻 All of my projects are available at [https://github.com/craxy14/Projects](https://github.com/craxy14/Projects)
+- 👨‍💻 All of my projects are available at [https://github.com/craxy14/Projects.](https://github.com/craxy14/Projects.)
 
 - 📫 How to reach me **xxmarselxx7@gmail.com**
 
