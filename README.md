@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <b>Vano Motiashvili</b> </h1>
+<h1 align="center">Hi 👋, I'm Vano Motiashvili</h1>
 <h3 align="center">A passionate Frontend Developer from Georgia 💗</h3>
 
 
