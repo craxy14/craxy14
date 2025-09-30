@@ -1,176 +1,248 @@
-# 🌃 Vano Motiashvili
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&duration=2000&pause=1000&color=FF00FF&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Welcome+to+Vano Motiashvili's+Criminal+Enterprise;Coding+in+Vice+City+Since+Day+One;Ready+to+Steal+Some+Code?" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://gitsk-comp2.vercel.app/api/stats?user=craxy14" />
-</div>
-
-
-
-## 🚗 Criminal Stats & Reputation
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/💰_Heists_Completed-∞-32CD32?style=for-the-badge&logo=dollar&logoColor=white&labelColor=000000" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/🔫_Wanted_Level-⭐⭐⭐⭐⭐-FF0000?style=for-the-badge&logo=target&logoColor=white&labelColor=000000" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://img.shields.io/badge/🏢_Territory-Georgia, Tbilisi-FF00FF?style=for-the-badge&logo=building&logoColor=white&labelColor=000000" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/👔_Organization-Goal-Oriented Academy-00FFFF?style=for-the-badge&logo=briefcase&logoColor=white&labelColor=000000" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 🕴️ Criminal Profile
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=craxy14&show_icons=true&theme=synthwave&hide_border=true&bg_color=0a0a0a&title_color=ff00ff&icon_color=00ffff&text_color=ffffff&border_color=ff00ff" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=craxy14&layout=compact&theme=synthwave&hide_border=true&bg_color=0a0a0a&title_color=ff00ff&text_color=ffffff&border_color=ff00ff" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-```python
-class CriminalMastermind:
-    def __init__(self):
-        self.name = "Vano Motiashvili"
-        self.alias = "craxy14"
-        self.role = "[Your role]"
-        self.location = "Georgia, Tbilisi"
-        self.organization = "Goal-Oriented Academy"
-        self.contact = "xxmarselxx7@gmail.com"
-        self.hideout = "[Your website]"
-    
-    def get_backstory(self):
-        return """
-        [Your bio]
-        """
-    
-    def current_operations(self):
-        return [[Your currentProjects]]
-    
-    def secret_intel(self):
-        return "[Your funFact]"
-    
-    def reputation_status(self):
-        return "LEGENDARY CRIMINAL MASTERMIND"
-```
-
-## 🛠️ Criminal Arsenal & Tools
-
-<div align="center">
-  <h3>💻 Digital Weapons</h3>
-  <img src="https://skillicons.dev/icons?i=[![My Skills](https://skillicons.dev/icons?i=js,react,vite,tailwindcss,ts,git,github,discord)](https://skillicons.dev)&theme=dark" />
   
-  <h3>🔧 Heist Equipment</h3>
-  <img src="https://skillicons.dev/icons?i=[![My Skills](https://skillicons.dev/icons?i=js,react,vite,tailwindcss,ts)](https://skillicons.dev)&theme=dark" />
+  <!-- Animated Header -->
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Vano Motiashvili&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=[Your role]%20at%20Goal-Oriented Academy&descAlign=50&descAlignY=51&descSize=16"/>
   
-  <h3>🏪 Underground Network</h3>
-  <img src="https://skillicons.dev/icons?i=git,github,[Your backendSkills]&theme=dark" />
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=[Your bio];[Your motto]" alt="Typing Animation"/>
   
-  <h3>🎮 Gaming & Design</h3>
-  <img src="https://skillicons.dev/icons?i=[![My Skills](https://skillicons.dev/icons?i=js,react,vite,tailwindcss,ts,git,github,discord)](https://skillicons.dev)blender,photoshop,figma,xd,sketch&theme=dark" />
-</div>
-
-## 🎯 Active Heists & Operations
-
-<div align="center">
-  <h3>🏦 Current Criminal Activities</h3>
-  
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/🎮_Project_Alpha-[Your currentProjects]-FF00FF?style=for-the-badge&logo=gamepad&logoColor=white&labelColor=000000" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/💎_Skill_Mastery-[![My Skills](https://skillicons.dev/icons?i=js,react,vite,tailwindcss,ts,git,github,discord)](https://skillicons.dev)-00FFFF?style=for-the-badge&logo=diamond&logoColor=white&labelColor=000000" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=craxy14&theme=neon-dark&hide_border=true&background=0a0a0a&stroke=ff00ff&ring=00ffff&fire=ff0000&currStreakLabel=ff00ff&sideLabels=ffffff&dates=ffffff" />
-</div>
-
-## 🏆 Criminal Achievements & Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=craxy14&theme=dark_lover&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Repositories,Commits,Issues,MultiLanguage,PullRequest,Reviews" />
-</div>
-
-## 📱 Secure Communication Channels
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="mailto:xxmarselxx7@gmail.com">
-          <img src="https://img.shields.io/badge/📧_Encrypted_Comms-xxmarselxx7@gmail.com-FF00FF?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=000000" />
-        </a>
-      </td>
-      <td>
-        <a href="[Your website]">
-          <img src="https://img.shields.io/badge/🌐_Secret_Hideout-[Your website]-00FFFF?style=for-the-badge&logo=tor&logoColor=white&labelColor=000000" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 📊 Criminal Activity Tracker
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=craxy14&bg_color=0a0a0a&color=ff00ff&line=00ffff&point=ff0000&area=true&hide_border=true&custom_title=Criminal%20Activity%20Graph" />
-</div>
-
-## 🎰 Vice City Intel Drop
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=[Your funFact]&author=Vano Motiashvili&border=true" />
-</div>
-
-## 🌆 Neon Nights Footer
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=neon&color=gradient&customColorList=24&height=150&section=footer&animation=blinking&fontSize=25&text=Keep+It+Criminal%2C+Keep+It+Cool" />
-  
-  <h3>🚗💨 Thanks for visiting Vice City! Remember: In code we trust, in bugs we debug! 🚗💨</h3>
-  
-  <table>
-    <tr>
-      <td>
-        <img src="https://komarev.com/ghpvc/?username=craxy14&color=ff00ff&style=neon&label=Heists+Witnessed" />
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/🎮_Status-Online_in_Vice_City-00FF00?style=neon&logo=gamepad&logoColor=white&labelColor=000000" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
 
 <div align="center">
-  <h4>🌃 "In a world full of bugs, be the feature." - Vano Motiashvili 🌃</h4>
+
+## 🎯 WHO AM I?
+
+<table>
+<tr>
+<td>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="300">
+</td>
+<td>
+
+```yaml
+name: Vano Motiashvili
+located_in: Georgia, Tbilisi
+current_company: Goal-Oriented Academy
+current_role: [Your role]
+education: [Your education]
+website: [Your website]
+
+currently_learning: [Your learningSkills]
+2024_goal: [Your goals]
+hobbies: [Your hobbies]
+```
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 TECH STACK & TOOLS
+
+<img src="https://skillicons.dev/icons?i=[![My Skills](https://skillicons.dev/icons?i=js,react,vite,tailwindcss,ts,git,github,discord)](https://skillicons.dev)&perline=8" />
+
+<br/><br/>
+
+<!-- Programming Languages -->
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> **Languages I Speak:**
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=craxy14&layout=compact&theme=tokyonight&hide_border=true&langs_count=10)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 GITHUB ANALYTICS
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=craxy14&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=craxy14&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=craxy14&custom_title=Vano Motiashvili's%20GitHub%20Activity%20Graph&bg_color=1a1b27&color=628fdb&line=628fdb&point=628fdb&area_color=628fdb&title_color=628fdb&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 ACHIEVEMENTS & TROPHIES
+
+<img src="https://media.giphy.com/media/3oz8xtBx06mcZWoNJm/giphy.gif" width="40">
+
+<img src="https://github-profile-trophy.vercel.app/?username=craxy14&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 💼 FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%">
+
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100%"/>
+
+### 🎨 [Your projectName1]
+
+[Your projectDescription1]
+
+**Tech Stack:** `[Your projectStack1]`
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=netlify)]([Your projectLink1])
+[![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)]([Your projectRepo1])
+
+</td>
+<td width="50%">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+
+### 🚀 [Your projectName2]
+
+[Your projectDescription2]
+
+**Tech Stack:** `[Your projectStack2]`
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)]([Your projectLink2])
+[![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)]([Your projectRepo2])
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+<img src="https://media.giphy.com/media/l46Cy1rHbQ92uuLXa/giphy.gif" width="100%"/>
+
+### 🔥 [Your projectName3]
+
+[Your projectDescription3]
+
+**Tech Stack:** `[Your projectStack3]`
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=heroku)]([Your projectLink3])
+[![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)]([Your projectRepo3])
+
+</td>
+<td width="50%">
+
+<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100%"/>
+
+### ⚡ [Your projectName4]
+
+[Your projectDescription4]
+
+**Tech Stack:** `[Your projectStack4]`
+
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=firebase)]([Your projectLink4])
+[![Source Code](https://img.shields.io/badge/Source-Code-blue?style=for-the-badge&logo=github)]([Your projectRepo4])
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎯 CURRENT FOCUS
+
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
+
+```mermaid
+graph LR
+    A[🔭 Currently Working On] --> B[[Your currentProjects]]
+    C[🌱 Learning] --> D[[Your learningSkills]]
+    E[💬 Ask Me About] --> F[[Your expertise]]
+    G[⚡ Fun Fact] --> H[[Your funFact]]
+    
+    style A fill:#ff6b6b
+    style C fill:#4ecdc4
+    style E fill:#45b7d1
+    style G fill:#96ceb4
+```
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 CONTRIBUTION GRAPH
+
+<img src="https://raw.githubusercontent.com/craxy14/craxy14/output/snake.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🌐 CONNECT WITH ME
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)]([Your website])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[Your linkedinUsername])
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[Your twitterUsername])
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/[Your instagramUsername])
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/[Your youtubeChannel])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xxmarselxx7@gmail.com)
+
+### 💬 Let's Talk About:
+- 🔥 Web Development & Modern Frameworks
+- 🤖 AI/ML & Data Science
+- 🎨 UI/UX Design Principles
+- 🚀 Startup Ideas & Innovation
+- 📚 Tech Books & Learning Resources
+
+</div>
+
+---
+
+<div align="center">
+
+## 📊 WEEKLY DEVELOPMENT BREAKDOWN
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</div>
+
+---
+
+<div align="center">
+
+## 🎵 SPOTIFY PLAYING
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/spotify-playing)](https://spotify-github-profile.vercel.app/api/spotify-playing)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=craxy14&label=Profile%20Views&color=brightgreen&style=for-the-badge" />
+
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+
+### Thanks for visiting! Have a great day! ✨
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
+
 </div>
