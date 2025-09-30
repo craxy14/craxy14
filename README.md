@@ -70,11 +70,6 @@
 ╠═══════════════════════════════════════════════════════════════╣
 ║ Primary Nexus: React                               ║
 ║ Tech Constellation: React / Tailwind CSS / Vite                             ║
-║ Expertise Domain: [Your expertise]                              ║
-║ Quantum Learning: [Your currentLearning]                        ║
-║ Neural Training: [Your programmingHours] hrs/week               ║
-║ Caffeine Fuel: [Your coffeeHours] quantum doses/day             ║
-║ Design Meditation: [Your designHours] hrs/week                  ║
 ╚═══════════════════════════════════════════════════════════════╝
 ```
 
