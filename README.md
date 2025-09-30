@@ -2,16 +2,14 @@
 
 ```
 ╔═══════════════════════════════════════════════════════════════════════════════╗
-║  🔮🕵️             CYBER-DETECTIVE ORACLE INTERFACE            🕵️🔮           ║
+║  🔮🕵️             CYBER-DETECTIVE ORACLE INTERFACE            🕵️🔮          ║
 ║                                                                               ║
-║   AGENT: Vano Motiashvili                    CODENAME: "craxy"                   ║
-║   RANK: [Your role] • DEPARTMENT: Goal-Oriented Academy                                   ║
+║   AGENT: Vano Motiashvili                    CODENAME: "craxy"                ║
+║   RANK: [ Mentor ] • DEPARTMENT: Goal-Oriented Academy                        ║
 ║   JURISDICTION: Georgia, Tbilisi • CLEARANCE: Junior Developer                ║
 ║                                                                               ║
-║   🎯 MISSION: [Your tagline]                                                     ║
-║   ⚡ STATUS: Mentor                                                ║
+║   🎯 MISSION: [Be the Best]                                                   ║
 ║                                                                               ║
-║   💫 AGENT PROFILE: [Your bio]                                                  ║
 ║                                                                               ║
 ╚═══════════════════════════════════════════════════════════════════════════════╝
 ```
